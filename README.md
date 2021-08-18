@@ -51,8 +51,7 @@
                         <a class="edit" href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a></li>
                     <li><p class="tags">Aplaya National High School - ANNEX 1 (APEX)<br><span> <span>2012-2016</span></span></p>
                         <a 
-                </ul>
-                
+                        </ul> 
             </div>
         </div>
     </div>
